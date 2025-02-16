@@ -1,0 +1,12 @@
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/bin/Debug/net8.0/ECommerce.SharedLibrary.deps.json
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/bin/Debug/net8.0/ECommerce.SharedLibrary.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/bin/Debug/net8.0/ECommerce.SharedLibrary.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ECommerce.SharedLibrary.csproj.AssemblyReference.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ECommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ECommerce.SharedLibrary.AssemblyInfoInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ECommerce.SharedLibrary.AssemblyInfo.cs
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ECommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ECommerce.SharedLibrary.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/refint/ECommerce.SharedLibrary.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ECommerce.SharedLibrary.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerce.SharedLibrary/obj/Debug/net8.0/ref/ECommerce.SharedLibrary.dll

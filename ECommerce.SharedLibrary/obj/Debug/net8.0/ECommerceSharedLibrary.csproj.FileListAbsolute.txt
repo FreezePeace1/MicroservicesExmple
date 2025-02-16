@@ -1,0 +1,12 @@
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/bin/Debug/net8.0/ECommerceSharedLibrary.deps.json
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/bin/Debug/net8.0/ECommerceSharedLibrary.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/bin/Debug/net8.0/ECommerceSharedLibrary.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ECommerceSharedLibrary.csproj.AssemblyReference.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ECommerceSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ECommerceSharedLibrary.AssemblyInfoInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ECommerceSharedLibrary.AssemblyInfo.cs
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ECommerceSharedLibrary.csproj.CoreCompileInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ECommerceSharedLibrary.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/refint/ECommerceSharedLibrary.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ECommerceSharedLibrary.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/ECommerceSharedLibrary/obj/Debug/net8.0/ref/ECommerceSharedLibrary.dll

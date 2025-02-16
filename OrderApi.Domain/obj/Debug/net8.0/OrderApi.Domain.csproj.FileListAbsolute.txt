@@ -1,0 +1,11 @@
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/bin/Debug/net8.0/OrderApi.Domain.deps.json
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/bin/Debug/net8.0/OrderApi.Domain.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/bin/Debug/net8.0/OrderApi.Domain.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.AssemblyInfoInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.AssemblyInfo.cs
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.csproj.CoreCompileInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/refint/OrderApi.Domain.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/OrderApi.Domain.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/OrderApi.Domain/obj/Debug/net8.0/ref/OrderApi.Domain.dll

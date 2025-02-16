@@ -1,0 +1,17 @@
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/bin/Debug/net8.0/AuthenticationApi.Application.deps.json
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/bin/Debug/net8.0/AuthenticationApi.Application.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/bin/Debug/net8.0/AuthenticationApi.Application.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/bin/Debug/net8.0/AuthenticationApi.Domain.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/bin/Debug/net8.0/ECommerce.SharedLibrary.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/bin/Debug/net8.0/AuthenticationApi.Domain.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/bin/Debug/net8.0/ECommerce.SharedLibrary.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.csproj.AssemblyReference.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.AssemblyInfoInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.AssemblyInfo.cs
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.csproj.CopyComplete
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/refint/AuthenticationApi.Application.dll
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/AuthenticationApi.Application.pdb
+/home/alexander/RiderProjects/DemoECommerceMicroservices/AuthenticationApi.Application/obj/Debug/net8.0/ref/AuthenticationApi.Application.dll
